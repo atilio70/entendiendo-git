@@ -1,6 +1,6 @@
 
 
-Nombre_dado = input("Quien es usted humilde ciudadano? ")
+Nombre_dado = input("Quien eres tu humilde ciudadano? ")
 Nombre = "Ailu"
 if Nombre==Nombre_dado:
     print("Hola Mailob, te quiero mucho.")
